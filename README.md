@@ -5,6 +5,7 @@ Table of Contents
 =================
  * [Table of Contents](#table-of-contents)
    * [What do we need to used Gatsby JS!](#cx-programming-language)
+   * [Gatsby JS file structure](#cx-programming-language)
    * [Pages and Navigation in Gatsby JS](#cx-playground)
    * [Importing Assets In Gatsby JS](#changelog)
    * [Intro to styled componentd in Gatsby JS](#installation)
